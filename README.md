@@ -1,0 +1,1 @@
+# Effectiveness-of-hyper-tuned-deep-learning-techniques-for-maize-disease-detection
